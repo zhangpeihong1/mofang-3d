@@ -1,6 +1,6 @@
 # 银河魔方 · Cosmic Cube
 
-React + TypeScript + Vite + Three.js 的交互式银河魔方
+React + TypeScript + Vite + Three.js 的交互式银河魔方（高清）
 
 ![01-desktop](./assets/01-desktop.png)
 
