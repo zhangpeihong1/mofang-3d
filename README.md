@@ -2,7 +2,7 @@
 
 React + TypeScript + Vite + Three.js 的交互式银河魔方。
 
-![image-20260915223310264](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20260915223310264.png)
+![01-desktop](.\assets\01-desktop.png)
 
 ## 本地预览
 
