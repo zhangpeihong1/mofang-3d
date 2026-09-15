@@ -2,7 +2,7 @@
 
 React + TypeScript + Vite + Three.js 的交互式银河魔方。
 
-![01-desktop](.\assets\01-desktop.png)
+![01-desktop](./assets/01-desktop.png)
 
 ## 本地预览
 
