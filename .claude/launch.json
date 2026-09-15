@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "cosmic-cube-dev",
+      "runtimeExecutable": "cmd.exe",
+      "runtimeArgs": ["/d", "/s", "/c", "cd /d D:\\dev\\ai-project\\mofang-3d && npm run dev"],
+      "port": 5174
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cosmic-rubiks-cube",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --config vite.config.ts --host localhost --port 5174 --strictPort",
+    "build": "tsc -b && vite build --config vite.config.ts",
+    "preview": "vite preview --config vite.config.ts --host localhost --port 4173 --strictPort",
+    "capture": "node scripts/capture.mjs"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/three": "^0.180.0",
+    "playwright": "^1.55.0",
+    "typescript": "latest",
+    "vite": "latest"
+  }
+}

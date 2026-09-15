@@ -1,0 +1,34 @@
+{
+  "errors": [
+    "Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "lastError": null,
+  "state": {
+    "ready": true,
+    "mode": "experience",
+    "elapsedSeconds": 8,
+    "cube": {
+      "cubies": 27,
+      "moveCount": 0,
+      "queuedMoves": 0,
+      "turnActive": false,
+      "rotation": [
+        -0.2153,
+        1.06,
+        0.08
+      ],
+      "coordinatesValid": true
+    },
+    "environment": {
+      "stars": 3,
+      "nebulae": 3,
+      "meteors": 7
+    },
+    "camera": [
+      7.15,
+      4.35,
+      8.5
+    ],
+    "error": null
+  }
+}
